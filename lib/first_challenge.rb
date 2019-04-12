@@ -20,6 +20,7 @@ if attribute == favorite_icecream_flavors
   value.delete_if { |flavor| flavor ="strawberry" }
  end
   end
+  contacts
 end
 
   #remember to return your newly altered contacts hash!
