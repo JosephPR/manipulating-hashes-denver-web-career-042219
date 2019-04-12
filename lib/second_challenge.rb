@@ -8,8 +8,6 @@ def second_challenge
 
   #code your solution here!
 array = groceries.values
-array.each do |flavor|
-        # here, each index element in an ice cream flavor string
-        puts "#{flavor}"
-end
+  
+array.flatten
 end
