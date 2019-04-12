@@ -12,3 +12,4 @@ array.each do |flavor|
         # here, each index element in an ice cream flavor string
         puts "#{flavor}"
 end
+end
